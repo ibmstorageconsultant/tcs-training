@@ -1,0 +1,6 @@
+These urls are timebound and expire after 24 hrs, you can visit the portal again to get new urls after the expiration.
+
+curl -o ZVM_Appliance_Vmware_zvml-10.8.0.1346.zip "https://h30279.www3.hpe.com/prdownloads/ZVM_Appliance_Vmware_zvml-10.8.0.1346.zip?downloadid=2Q1QPReEnUvGS_IhDWkNqyNpqdnGme3MyPa1f21hXFfzhUay10DPJoPXLJdHcXd1ntG-fvyUdZOGl3OdeYSAQSQpmZz0RT1nCIABbQqr_ogPxKfr7A0gO_j_MRqt4tmTJZCqQxPGSMA4c583PxUaYlbr309zm1mpi7PmQATsYCIcai6VD4i4eg==&merchantId=SW_EVAL_CUSTOMER&rnid=1.0&bpid=SWD&egid=F&__dlk__=1769856448_e06a787fbc285f6c3e229d7f1abe6452" 
+SHA256 Checksum : d785d4d990bdb6b1da3ca0b1a66c5b665a173c24269ef84c7cbad205e6587cc2 
+Signature File : https://h30302.www3.hpe.com/pub/sig/zvml-10.8.0.1346.zip.sig?merchantId=PUB_DROPBOX 
+
